@@ -154,7 +154,7 @@ var j=jQuery.noConflict();
                 endOnTick: true,
                 plotLines: [{
                     color: '#ddd',
-                    width: 2,
+                    width: 1,
                     value: mean_x
                 }],
                 tickLength: 0
